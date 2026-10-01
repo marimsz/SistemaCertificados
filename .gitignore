@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Arquivos gerados
+certificado.pdf
+certificado-teste.pdf
+dados.json
+
+# Variáveis de ambiente
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
